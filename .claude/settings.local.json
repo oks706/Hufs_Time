@@ -69,7 +69,12 @@
       "Bash(git add:*)",
       "Bash(git rm:*)",
       "Bash(gh auth:*)",
-      "Bash(export PATH=\"/c/Program Files/GitHub CLI:$PATH\")"
+      "Bash(export PATH=\"/c/Program Files/GitHub CLI:$PATH\")",
+      "Bash(npm list:*)",
+      "Bash(npx md-to-pdf:*)",
+      "Bash(taskkill //F //PID 16624)",
+      "Bash(taskkill //F //PID 16996)",
+      "Bash(DATABASE_URL=\"postgresql://neondb_owner:npg_ztQ50PUnKkDC@ep-restless-wave-a1yonrey-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require\" node src/index.js)"
     ]
   }
 }
