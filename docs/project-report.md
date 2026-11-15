@@ -380,11 +380,10 @@ hufs-timetable/
 │   └── Dockerfile               # Node.js 기반 배포
 │
 ├── .github/workflows/ci.yml    # GitHub Actions CI/CD
-├── CLAUDE.md                    # 프로젝트 명세서
 └── .gitignore
 ```
 
-**코드 규모**: 73개 파일, 17,334줄
+**코드 규모**: 64개 파일, 15,784줄
 
 ---
 
